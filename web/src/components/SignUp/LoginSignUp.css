@@ -1,0 +1,34 @@
+.bgImg {
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  opacity: 0.9;
+  filter: brightness(0.4);
+}
+
+body {
+  overflow: hidden;
+}
+
+.inline-ali {
+  width: 80px;
+  height: 0.64px;
+  background-color: #ffffff;
+  position: absolute;
+  top: 242px;
+  left: 55px;
+  opacity: 0.3;
+  margin-top: 10px;
+}
+
+.inline-ali1 {
+  width: 80px;
+  height: 0.64px;
+  background-color: #ffffff;
+  position: absolute;
+  top: 252px;
+  right: 55px;
+  opacity: 0.3;
+}
